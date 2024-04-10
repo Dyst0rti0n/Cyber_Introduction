@@ -48,7 +48,7 @@ Non widely used, but always good to know them.
 
 **GREEN HAT:** newcomers to the hacking scene, often referred to as "green hat hackers." While lacking awareness of security mechanisms and the intricacies of the web, they exhibit a strong eagerness to learn and a determined, if not desperate, drive to advance in the hacker community. Although their primary goal may not be to inflict harm, their experimentation with different malware and attack techniques could inadvertently lead to unintended consequences.
 
-![[Pasted image 20240410014852.png]]
+![[zimages/Pasted image 20240410014852.png]]
 ![[Pasted image 20240410014827.png]]
 
 ## Cybersecurity Jobs
